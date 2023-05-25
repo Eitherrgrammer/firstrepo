@@ -1,2 +1,5 @@
-Ini adalah repository pertama saya untuk belajar GitHub. Nantinya akan ada banyak project yang akan saya tambahkan 
-dan kita bisa berkolaborasi bersama.
+Ini adalah repository pertama saya untuk belajar GitHub. Nantinya akan ada banyak project yang akan saya tambahkan dan kita bisa berkolaborasi bersama. Pada repo ini saya akan memperkenalkan diri
+--> Nama: Nouval Aulia Rahman
+--> Umur: 19 tahun
+--> Asal: Kalimantan timur
+--> Pekerjaan: Mahasiswa
